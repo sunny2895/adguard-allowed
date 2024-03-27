@@ -1,2 +1,2 @@
-*..mozilla.org
+*.mozilla.org
 *.microsoft.com
