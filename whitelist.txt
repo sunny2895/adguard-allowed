@@ -1,2 +1,3 @@
 *.mozilla.org
 *.microsoft.com
+*.nosto.com #2024-04-13 PetalAndPup website 
