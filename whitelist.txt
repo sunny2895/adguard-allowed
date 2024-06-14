@@ -1,5 +1,8 @@
 *.mozilla.org
 *.microsoft.com
+*.azure.com
+*.azure.net
 
 #2024-04-13 PetalAndPup website 
 *.nosto.com 
+
